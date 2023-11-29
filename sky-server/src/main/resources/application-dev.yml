@@ -7,7 +7,7 @@ sky:
     username: root
     password: '1234'
   alioss:
-    access-key-id: LTAI5tQn62FgUU85LXdkQQka
-    access-key-secret: oV532za93BM7ccALSREQkqnWajPPoB
+    access-key-id:
+    access-key-secret:
     bucket-name: web-chop
     endpoint: oss-cn-hangzhou.aliyuncs.com
